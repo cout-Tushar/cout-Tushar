@@ -43,8 +43,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharmishra001&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tusharmishra001&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cout-Tushar&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cout-Tushar&theme=radical" width="45%" />
 </p>
 
 ---
@@ -56,3 +56,4 @@
 ---
 
 *Thanks for visiting my profile! 😊 Keep building, keep learning, and stay curious!*
+
