@@ -51,7 +51,7 @@
 
 ## 📫 Contact
 
-- 📧 Email: your.email@example.com *(Replace with your actual email)*
+- 📧 Email: tusharmishra6666@gmail.com 
 
 ---
 
