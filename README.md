@@ -6,13 +6,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Engineering student at **Maharaja Agrasen Institute of Technology (MAIT)**
-- 👨‍🔬 First in my family to pursue a career in STEM
 - 🧠 Strong foundation in **Data Structures & Algorithms** (250+ LeetCode problems solved)
 - 💻 Learning **Full Stack Web Development** (Frontend + Backend)
 - 🔬 Currently diving deep into **Generative AI, Machine Learning & Data Science**
 - 📘 Completed **Python with Data Science** course from NPTEL
-- 🌱 Learning **Java**, **Z-Transforms**, and advanced C concepts
-- 🛠️ Working on a project involving **OS Development using ANTLR**
 
 ---
 
